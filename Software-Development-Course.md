@@ -1,4 +1,4 @@
-# Reading Notes
+# Software Developer Course
 
 ## About
 ##### This site is a bridge to guide you to become a software developer step by step, and you will learn all about software development like designing, programming, documenting, testing, and bug fixing involved in creating and maintaining applications, frameworks, or other software components, through these following courses :
@@ -17,4 +17,4 @@
 
 ---
 
-readingnote@mail.com Contact us for more details :email:
+
