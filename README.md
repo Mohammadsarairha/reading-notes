@@ -6,11 +6,12 @@
 
 ## Courses
 
-1. [Software Developer Course](./Software-Development-Course.md)
+| Course Name                 | File Link                                                     |
+|-----------------------------|---------------------------------------------------------------|
+| SQL Course                  | [SQL Course](./SQL-Course.md)                                 |
+| Bash Command Line Tutorials | [Bash Command Line Tutorials](./CLI-Course.md)                |
+| Software Developer Course   | [Software Developer Course](./Software-Development-Course.md) |
 
-2. [Bash Command Line Tutorials](./CLI-Course.md)
-
-3. [SQL Course](./SQL-Course.md)
 
 ## Contact us 
 readingnote@mail.com Contact us for more details :email:
