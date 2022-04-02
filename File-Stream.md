@@ -22,6 +22,7 @@
 
 - Streams is base class make read and write bytes , And work with operating system and underlying devices.
 
+
 ### There some of classes deal with streams:
 
 - FileStream : for reading and writing to a file.
@@ -40,6 +41,7 @@
 
 ## Readers and writers
 
+
 - The System.IO namespace also provides you to deal and reading encoded characters from streams , And writing them to streams. 
 
 - Streams are designed for byte input and output. 
@@ -47,6 +49,7 @@
 - The reader and writer types handle the conversion of the encoded characters to and from bytes
 
 ### There some of classes deal with reader and writer:
+
 
 - BinaryReader and BinaryWriter : for reading and writing data types as binary values (0 - 1).
 
@@ -81,6 +84,7 @@
 - stream and serialization methods may be used to read and write data.
 
 
+
 # How to: Write text to a file
 
 - There is to many way to use System.io class  to write files , There is some way to dp that.
@@ -89,6 +93,7 @@
 ### Synchronously write text
 
 ```C# 
+
 using System;
 using System.IO;
 
@@ -104,6 +109,7 @@ class Program
     }
 }
 ```
+
 - Output
 
 ```bash
@@ -112,6 +118,7 @@ First Second Third
 
 
 # How to: Read text from a file
+
 
 - There is to many way to use System.io class  to write files , There is some way to dp that.
 
