@@ -12,7 +12,8 @@
 | Bash Command Line Tutorials | [Bash Command Line Tutorials](./CLI-Course.md)                |
 | Software Developer Course   | [Software Developer Course](./Software-Development-Course.md) |
 | File and Stream | [File and Stream](./File-Stream.md) |
-| Classes & Objects | [Classes & Objects](./Classes-Objects.md) |
+|Collections and Enums| [Collections and Enums](./Collections-Enums.md) |
+
 
 ## Contact us
 
