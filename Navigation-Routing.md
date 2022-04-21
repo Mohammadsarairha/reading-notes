@@ -71,3 +71,10 @@ In this article we have learned the following topics:
 - Configuring Attribute Routing for controllers and action methods
 - Setup multiple routes for both conventional and attribute routing
 
+## Things I want to know more about
+
+- What is routing and types of routing in MVC?
+
+- Can we have multiple routes in MVC?
+
+- What is ignore route in MVC?
