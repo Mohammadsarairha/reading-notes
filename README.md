@@ -21,7 +21,7 @@
 |Data Transfer Objects| [Data Transfer Objects](./Data-Transfer-Objects.md) |
 |Testing and Swagger|[Testing and Swagger](./Testing-and-Swagger.md)|
 |Identity|[Identity](./Identity.md)|
-|Roles Claims Tokens|[Roles Claims Tokens](./%20Roles-Claims-Tokens.md)|
+|Roles Claims Tokens|[Roles Claims Tokens](./Roles-Claims-Tokens.md)|
 
 ## Contact us
 
