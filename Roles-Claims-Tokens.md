@@ -4,7 +4,7 @@
 
 Claims-based authentication is a mechanism which defines how applications acquire identity information about users. When a user tries to access a restricted section of Kentico, for example the administration interface, the system redirects the user to a logon page of an Identity provider.
 
-![](https://docs.xperience.io/k9/files/59638398/61375952/1/1430710073670/claims_authentication.png)
+![Claims](https://docs.xperience.io/k9/files/59638398/61375952/1/1430710073670/claims_authentication.png)
 
 Claim based authorization checks :
 
@@ -18,7 +18,7 @@ Claims in code specify claims which the current user must possess, and optionall
 
 Despite the similar-sounding terms, authentication and authorization are separate steps in the login process. Understanding the difference between the two is key to successfully implementing an IAM solution.
 
-![](https://www.okta.com/sites/default/files/styles/1640w_scaled/public/media/image/2020-10/Authentication_vs_Authorization.png?itok=uBFRCfww)
+![AuthenticationAndAuthorization](https://www.okta.com/sites/default/files/styles/1640w_scaled/public/media/image/2020-10/Authentication_vs_Authorization.png?itok=uBFRCfww)
 
 Let's use an analogy to outline the differences.
 
@@ -34,7 +34,7 @@ What is JWT?
 
 A JWT is a mechanism to verify the owner of some JSON data. It’s an encoded, URL-safe string that can contain an unlimited amount of data (unlike a cookie) and is cryptographically signed. When a server receives a JWT, it can guarantee the data it contains can be trusted because it’s signed by the source. No middleman can modify a JWT once it’s sent.
 
-![](https://www.mongodb.com/docs/realm/images/custom-auth-diagram.png)
+![JWT](https://www.mongodb.com/docs/realm/images/custom-auth-diagram.png)
 
 ## When should you use JSON Web Tokens?
 
