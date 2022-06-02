@@ -22,6 +22,7 @@
 |Testing and Swagger|[Testing and Swagger](./Testing-and-Swagger.md)|
 |Identity|[Identity](./Identity.md)|
 |Roles Claims Tokens|[Roles Claims Tokens](./Roles-Claims-Tokens.md)|
+|Hash Table|[Hash Table](./Hash-Table.md)|
 
 ## Contact us
 
