@@ -23,6 +23,7 @@
 |Identity|[Identity](./Identity.md)|
 |Roles Claims Tokens|[Roles Claims Tokens](./Roles-Claims-Tokens.md)|
 |Hash Table|[Hash Table](./Hash-Table.md)|
+|MVC Cookies|[MVC Cookies](./MVC-Cookies.md)|
 
 ## Contact us
 
